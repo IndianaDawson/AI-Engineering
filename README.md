@@ -10,6 +10,7 @@ Each of the links take you to the IBM course on coursera, and the notes undernea
 
 1. [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python)
    - First part of course, great place to start, but better covered in [IBM Introduction to Machine Learning Specialization(https://www.coursera.org/specializations/ibm-intro-machine-learning)
+   - Can visit my work on that here: [IBM Introduction to Machine Learning Specialization](https://github.com/IndianaDawson/IBM-Introduction-to-Machine-Learning-Specialization)
 
 2. [Scalable Machine Learning on Big Data using Apache Spark](https://www.coursera.org/learn/machine-learning-big-data-apache-spark)
    - RDD & Datasets
