@@ -27,7 +27,9 @@ Each of the links take you to the IBM course on coursera, and the notes undernea
    - 
 
 5. [Building Deep Learning Models with TensorFlow](https://www.coursera.org/learn/building-deep-learning-models-with-tensorflow)
-   - 
+   - Linear and Logistic Regression
+   - CNN, LSTM, and RBM
+   - Autoencoders
    
 6. [AI Capstone Project with Deep Learning](https://www.coursera.org/learn/ai-deep-learning-capstone)
    - 
