@@ -1,10 +1,10 @@
 # [AI-Engineering](https://www.coursera.org/professional-certificates/ai-engineer)
 
-Here are the practice exercises and peer-review projects for each of the courses within the specialization.
+Here are the practice exercises and peer-review projects for each of the courses within the certification.
 The notebooks are edited to work with Watson Studio (WS) Notebooks under IBM Cloud Pak for Data.
 The files needed to work this can be upload within the project through Cloud Object Storage.
 
-The purpose of this github is to provide a reference on how to best do this Certification through WS through the cloud, as well as showcase and host the peer-reviewed projects for grading and to aid others. Also, as a reference for the different code needed for machine learning.
+The purpose of this github is to provide a reference on how to best do this Certification through WS through the cloud, as well as showcase and host the peer-reviewed projects for grading and to aid others. Also, as a reference for the different code needed for machine learning and deep learning.
 
 Each of the links take you to the IBM course on coursera, and the notes underneath each link give a reference to what is covered in the course and covered within the notebooks in their respected folders 
 
