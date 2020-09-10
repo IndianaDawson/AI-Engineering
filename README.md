@@ -24,7 +24,10 @@ Each of the links take you to the IBM course on coursera, and the notes undernea
    - Convolutional Neural Networks
 
 4. [Deep Neural Networks with PyTorch](https://www.coursera.org/learn/deep-neural-networks-with-pytorch)
-   - 
+   - Linear Regression
+   - Shallow and Deep Neural Networks
+   - Softmax Regression
+   - Convolutional Neural Networks
 
 5. [Building Deep Learning Models with TensorFlow](https://www.coursera.org/learn/building-deep-learning-models-with-tensorflow)
    - Linear and Logistic Regression
@@ -32,4 +35,5 @@ Each of the links take you to the IBM course on coursera, and the notes undernea
    - Autoencoders
    
 6. [AI Capstone Project with Deep Learning](https://www.coursera.org/learn/ai-deep-learning-capstone)
-   - 
+   - Keras Capstone Project
+   - PyTorch Capstone Project
